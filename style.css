@@ -3,10 +3,10 @@
 
 :root {
 --primary-color: #026773;
---secondary-color: #3CA6A6;
---text-color: #024959;
+--secondary-color: #3c76a6;
+--text-color: #4d0259;
 --background-color: #F2E3D5;
---button-hover: #012E40;
+--button-hover: #dc7dce;
 --font-body: "Chocolate Classical Sans", serif;
 --font-titulo: "Rakkas", serif;
 }
